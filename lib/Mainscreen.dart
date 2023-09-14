@@ -90,6 +90,8 @@ else if(counter==2)
 
   });
 }
+namecontrol.clear();
+phonecontrol.clear();
 
   }
 
